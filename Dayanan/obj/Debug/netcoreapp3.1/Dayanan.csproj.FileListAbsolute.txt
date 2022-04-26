@@ -356,3 +356,4 @@ F:\Gholamzadeh-Sa\Dayanan_Website\Dayanan\obj\Debug\netcoreapp3.1\Dayanan.csproj
 F:\Gholamzadeh-Sa\Dayanan_Website\Dayanan\obj\Debug\netcoreapp3.1\Dayanan.dll
 F:\Gholamzadeh-Sa\Dayanan_Website\Dayanan\obj\Debug\netcoreapp3.1\Dayanan.pdb
 F:\Gholamzadeh-Sa\Dayanan_Website\Dayanan\obj\Debug\netcoreapp3.1\Dayanan.genruntimeconfig.cache
+F:\Gholamzadeh-Sa\Dayanan_Website\Dayanan\bin\Debug\netcoreapp3.1\libman.json

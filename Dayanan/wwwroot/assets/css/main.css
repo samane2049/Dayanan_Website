@@ -402,7 +402,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 .sub-menu a {
-  font-family: Poppins-Regular;
+  font-family: Yekan;
   font-size: 14px;
   line-height: 1.5;
   color: #555;
@@ -2119,7 +2119,7 @@ input.num-product::-webkit-inner-spin-button {
 /*//////////////////////////////////////////////////////////////////
 [ S-Text 0 - 15 ]*/
 .stext-101 {
-  font-family: Poppins-Medium;
+  font-family: Yekan;
   font-size: 15px;
   line-height: 1.466667;
   text-transform: uppercase;
@@ -2157,9 +2157,9 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .stext-107 {
-  font-family: Poppins-Regular;
-  font-size: 13px;
-  line-height: 1.923;
+    font-family: Yekan;
+    font-size: 13px;
+    line-height: 1.923;
 }
 
 .stext-108 {
@@ -2226,10 +2226,10 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .stext-301 {
-  font-family: Montserrat-Bold;
-  font-size: 15px;
-  line-height: 1.6;
-  text-transform: uppercase;
+    font-family: Yekan;
+    font-size: 15px;
+    line-height: 1.6;
+    text-transform: uppercase;
 }
 
 
@@ -2411,7 +2411,7 @@ input.num-product::-webkit-inner-spin-button {
 }
 
 .size-103 {
-  min-width: 179px;
+  min-width: 100px;
   height: 46px;
 }
 
@@ -3309,4 +3309,23 @@ input.num-product::-webkit-inner-spin-button {
     padding: 20px;
   }
 
+}
+/*---------------------------------------------------*/
+.carousel {
+    width: 90%;
+    margin: 0px auto;
+}
+
+.slick-slide {
+    margin: 10px;
+}
+
+.slick-slide img {
+    width: 100%;
+    border: 2px solid #fff;
+}
+
+.wrapper .slick-dots li button:before {
+    font-size: 20px;
+    color: white;
 }
